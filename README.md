@@ -1,7 +1,5 @@
 # React-TodoList
 
-## Used for Learning React
-
 ###### Can find Linkedin Learning
 
 #### Table of Contents
@@ -38,4 +36,5 @@ Project includes:
 ## Documentation and Resources
 
 [React Docs](https://reactjs.org/)
+
 [LinkedIn Learning Building Modern Projects with React](https://www.linkedin.com/learning)
