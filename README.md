@@ -1,6 +1,6 @@
 # React-TodoList
 
-###### Can find Linkedin Learning
+
 
 #### Table of Contents
 
