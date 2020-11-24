@@ -9,6 +9,9 @@ import {
   completeTodo
 } from "./actions";
 
+// Need to change the URL of the fetch if you are on CodeSandbox
+// If you are running local machine set the URL to Local host port 8080
+
 export const loadTodos = () => async (dispatch, getState) => {
   try {
     dispatch(loadTodosInProgress());
